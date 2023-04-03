@@ -7995,6 +7995,10 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+.text-right {
+  text-align: right !important;
+}
+
 .text-decoration-none {
   text-decoration: none !important;
 }
@@ -10860,7 +10864,9 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: url("../assets/images/backgrounds/food.jpg");
+  background-color: rgba(99,99,99,.75);
+  background-blend-mode: multiply;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -10913,7 +10919,7 @@ header.masthead .bg-circle-4 {
     padding-bottom: 10rem;
   }
   header.masthead .masthead-content .masthead-heading {
-    font-size: 6rem;
+    font-size: 3rem;
   }
   header.masthead .masthead-content .masthead-subheading {
     font-size: 4rem;
