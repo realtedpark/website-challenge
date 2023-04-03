@@ -35,33 +35,33 @@ xhr.onload = () => {
 
     var juiceMenu = document.getElementById("juices");
     for (var i = 0; i < juices.length; i++) {
-        console.log(juices[i].name);
         var card = document.createElement("div");
 
         card.className = "card h-100 border-0";
         card.style = "width: 18rem;";
+        card.setAttribute("data-aos","zoom-in");
         card.innerHTML = "<img class=\"card-img-top\" src=" + juices[i].img + " alt=" + juices[i].name + " /><div class=\"card-body\"><h5 class=\"card-title\">" + juices[i].name + "</h5><p class=\"card-text\">" + juices[i].desc + "</p></div>";
         juiceMenu.appendChild(card);
     }
 
     var bowlMenu = document.getElementById("bowls");
     for (var i = 0; i < bowls.length; i++) {
-        console.log(bowls[i].name);
         var card = document.createElement("div");
 
         card.className = "card h-100 border-0";
         card.style = "width: 18rem;";
+        card.setAttribute("data-aos","zoom-in");
         card.innerHTML = "<img class=\"card-img-top\" src=" + bowls[i].img + " alt=" + bowls[i].name + " /><div class=\"card-body\"><h5 class=\"card-title\">" + bowls[i].name + "</h5><p class=\"card-text\">" + bowls[i].desc + "</p></div>";
         bowlMenu.appendChild(card);
     }
 
     var snackMenu = document.getElementById("snacks");
     for (var i = 0; i < snacks.length; i++) {
-        console.log(snacks[i].name);
         var card = document.createElement("div");
 
         card.className = "card h-100 border-0";
         card.style = "width: 18rem;";
+        card.setAttribute("data-aos","zoom-in");
         card.innerHTML = "<img class=\"card-img-top\" src=" + snacks[i].img + " alt=" + snacks[i].name + " /><div class=\"card-body\"><h5 class=\"card-title\">" + snacks[i].name + "</h5><p class=\"card-text\">" + snacks[i].desc + "</p></div>";
         snackMenu.appendChild(card);
     }
