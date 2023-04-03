@@ -22,7 +22,32 @@
         },
         {
             "name" : "Rinse & Re-Beet",
+            "img" : "assets/images/juices/386-rinse-rebeet.jpg",
+            "desc" : "beet* carrot* cucumber* celery* lemon*"
+        },
+        {
+            "name" : "Spicy Green",
+            "img" : "assets/images/juices/374-spicy-green.jpg", 
+            "desc" : "spinach* kale* cucumber* celery* sprouts* parsley* cilantro* jalapeño* lime* pink salt"
+        },
+        {
+            "name" : "Clean Green",
+            "img" : "assets/images/juices/375-clean-green.jpg",
+            "desc" : "kale* spinach* cucumber* celery* apple* parsley* ginger* lemon*" 
+        },
+        {
+            "name" : "Gentle Green",
+            "img" : "assets/images/juices/376-gentle-green.jpg",
+            "desc" : "kale* spinach* cucumber* grapefruit* apple*"
+        },
+        {
+            "name" : "Citrus Fire",
             "img" : "assets/images/juices/377-citrus-fire.jpg",
+            "desc" : "grapefruit* orange* lemon* ginger* cayenne*"
+        },
+        {
+            "name" : "Rinse & Re-Beet",
+            "img" : "assets/images/juices/386-rinse-rebeet.jpg",
             "desc" : "beet* carrot* cucumber* celery* lemon*"
         }
     ]
