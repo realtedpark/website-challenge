@@ -1,54 +1,123 @@
 {
     "juices": [
         {
-            "name" : "Spicy Green",
+            "name" : "[01] SPICY GREEN",
             "img" : "assets/images/juices/374-spicy-green.jpg", 
             "desc" : "spinach* kale* cucumber* celery* sprouts* parsley* cilantro* jalapeño* lime* pink salt"
         },
         {
-            "name" : "Clean Green",
+            "name" : "[02] CLEAN GREEN",
             "img" : "assets/images/juices/375-clean-green.jpg",
             "desc" : "kale* spinach* cucumber* celery* apple* parsley* ginger* lemon*" 
         },
         {
-            "name" : "Gentle Green",
+            "name" : "[03] GENTLE GREEN",
             "img" : "assets/images/juices/376-gentle-green.jpg",
             "desc" : "kale* spinach* cucumber* grapefruit* apple*"
         },
         {
-            "name" : "Citrus Fire",
+            "name" : "[04] CITRUS FIRE",
             "img" : "assets/images/juices/377-citrus-fire.jpg",
             "desc" : "grapefruit* orange* lemon* ginger* cayenne*"
         },
         {
-            "name" : "Rinse & Re-Beet",
+            "name" : "[05] RINSE & RE-BEET",
             "img" : "assets/images/juices/386-rinse-rebeet.jpg",
             "desc" : "beet* carrot* cucumber* celery* lemon*"
         },
         {
-            "name" : "Spicy Green",
+            "name" : "[06] RINSE & REFRESH",
+            "img" : "assets/images/juices/387-rinse-refresh.jpg", 
+            "desc" : "cucumber* grapefruit* pineapple*"
+        },
+        {
+            "name" : "[07] RINSE & RECHARGE",
+            "img" : "assets/images/juices/388-rinse-recharge.jpg",
+            "desc" : "lemon* pineapple* maple syrup* cayenne* filtered water" 
+        },
+        {
+            "name" : "[08] RED LOADED",
+            "img" : "assets/images/juices/389-red-loaded.jpg",
+            "desc" : "carrot* celery* red pepper* cucumber* lemon*"
+        },
+        {
+            "name" : "[09] TURMERIC TONIC",
+            "img" : "assets/images/juices/398-turmeric-tonic.jpg",
+            "desc" : "turmeric* lime* maple syrup* filtered water"
+        },
+        {
+            "name" : "[10] COCO CLASSIC",
+            "img" : "assets/images/juices/399-coco-classic.jpg",
+            "desc" : "young Thai coconut water*"
+        },
+        {
+            "name" : "[11] THE DARKNESS",
+            "img" : "assets/images/juices/400-the-darkness.jpg",
+            "desc" : "black tea* maple syrup* activated charcoal"
+        },
+        {
+            "name" : "BOLT ENERGY DRINK",
+            "img" : "assets/images/juices/386-rinse-rebeet.jpg",
+            "desc" : "guayusa* maca* maple syrup*"
+        }
+    ],
+    "bowls": [
+        {
+            "name" : "COCO VERDE",
+            "img" : "assets/images/smoothies-bowls/414-coco-verde.jpg", 
+            "desc" : "kale* spinach* mango* coconut oil* banana* dates* coconut water*"
+        },
+        {
+            "name" : "BRADLEY'S CB&J",
+            "img" : "assets/images/smoothies-bowls/415-cbj.jpg", 
+            "desc" : "cashew butter* strawberries* banana* dates* house cashew milk*"
+        },
+        {
+            "name" : "SUPER",
+            "img" : "assets/images/smoothies-bowls/416-super.jpg", 
+            "desc" : "blueberries* goji berries* banana* dates* house almond milk*"
+        },
+        {
+            "name" : "BLAZE",
+            "img" : "assets/images/smoothies-bowls/417-blaze.jpg", 
+            "desc" : "ginger* cayenne* mango* strawberries* banana* dates* house cashew milk*"
+        },
+        {
+            "name" : "BLENDED BREW",
+            "img" : "assets/images/smoothies-bowls/451-blended-brew.jpg", 
+            "desc" : "cashew butter* oats* banana* dates* cold brew coffee* (cacao* optional)"
+        },
+        {
+            "name" : "TROPIC ENERGY",
+            "img" : "assets/images/smoothies-bowls/452-tropic-energy.jpg", 
+            "desc" : "mango* cherries* banana* dates* brewed guayusa*"
+        },
+        {
+            "name" : "MONSTER",
+            "img" : "assets/images/smoothies-bowls/453-cacao-monster.jpg", 
+            "desc" : "cacao* almond butter* banana* dates* house almond milk*"
+        },
+        {
+            "name" : "THE WATERBOY",
             "img" : "assets/images/juices/374-spicy-green.jpg", 
-            "desc" : "spinach* kale* cucumber* celery* sprouts* parsley* cilantro* jalapeño* lime* pink salt"
+            "desc" : "banana* mango* blue majik* coconut water*"
+        }
+    ],
+    "snacks": [
+        {
+            "name" : "BREAKFAST BOWL",
+            "img" : "assets/images/snacks/475-breakfast-bowl.jpg", 
+            "desc" : "gluten-free oats and/or chia pudding with your choice of 3 toppings"
         },
         {
-            "name" : "Clean Green",
-            "img" : "assets/images/juices/375-clean-green.jpg",
-            "desc" : "kale* spinach* cucumber* celery* apple* parsley* ginger* lemon*" 
+            "name" : "CHILI w/ CASHEW CREAM",
+            "img" : "assets/images/snacks/476-chili-15546949999892.jpg", 
+            "desc" : "our delicious house chili with your choice of regular or jalapeno-lime cashew cream (select locations only)"
         },
         {
-            "name" : "Gentle Green",
-            "img" : "assets/images/juices/376-gentle-green.jpg",
-            "desc" : "kale* spinach* cucumber* grapefruit* apple*"
-        },
-        {
-            "name" : "Citrus Fire",
-            "img" : "assets/images/juices/377-citrus-fire.jpg",
-            "desc" : "grapefruit* orange* lemon* ginger* cayenne*"
-        },
-        {
-            "name" : "Rinse & Re-Beet",
-            "img" : "assets/images/juices/386-rinse-rebeet.jpg",
-            "desc" : "beet* carrot* cucumber* celery* lemon*"
+            "name" : "KALE CAESAR",
+            "img" : "assets/images/snacks/489-salad.jpg", 
+            "desc" : "kale and cabbage blend with vegan dressing and parm (select locations and times only)"
         }
     ]
 }
